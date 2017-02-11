@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/build/generated/source/aidl/debug/com/example/laibomusic/IMusicService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/cache/ImageCache.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/example/cache/ImageProvider.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/fragments/AlbumsFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/laibomusic/IMusicService.aidl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/laibomusic/service/MusicService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/laibomusic/util/ArtistAlbumJson.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/laibomusic/util/CharactersUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/laibomusic/util/Consts.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/laibomusic/util/DisplayUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/laibomusic/util/HttpUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/laibomusic/util/ImageUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/laibomusic/util/MusicUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/laibomusic/util/Musiclist.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/widget/LrcView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/widget/Sidebar.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,121 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  Internal Error (javaClasses.cpp:136), pid=480, tid=8768
+#  fatal error: Invalid layout of preloaded class
+#
+# JRE version:  (7.0_67-b01) (build )
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (24.65-b04 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.sun.com/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000000002292800):  JavaThread "Unknown thread" [_thread_in_vm, id=8768, stack(0x0000000002190000,0x0000000002290000)]
+
+Stack: [0x0000000002190000,0x0000000002290000]
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x0000000002292800 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=8768, stack(0x0000000002190000,0x0000000002290000)]
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+Events (10 events):
+Event: 0.007 loading class 0x00000000022d5030 done
+Event: 0.007 loading class 0x00000000022d4a50 done
+Event: 0.007 loading class 0x00000000022d4a30
+Event: 0.007 loading class 0x00000000022dcb80
+Event: 0.007 loading class 0x00000000022dcb80 done
+Event: 0.007 loading class 0x00000000022dcbb0
+Event: 0.007 loading class 0x00000000022dcbb0 done
+Event: 0.007 loading class 0x00000000022dcbe0
+Event: 0.007 loading class 0x00000000022dcbe0 done
+Event: 0.007 loading class 0x00000000022d4a30 done
+
+
+Dynamic libraries:
+0x00007ff717450000 - 0x00007ff717483000 	D:\Program Files\JAVA\jre7\bin\javaw.exe
+0x00007ffc191b0000 - 0x00007ffc1935c000 	C:\windows\SYSTEM32\ntdll.dll
+0x00007ffc18d60000 - 0x00007ffc18e9a000 	C:\windows\system32\KERNEL32.DLL
+0x00007ffc164c0000 - 0x00007ffc165cf000 	C:\windows\system32\KERNELBASE.dll
+0x00007ffc14240000 - 0x00007ffc142c8000 	C:\windows\system32\apphelp.dll
+0x00007ffbfea00000 - 0x00007ffbfea4f000 	C:\windows\AppPatch\AppPatch64\AcGenral.DLL
+0x00007ffc18930000 - 0x00007ffc189d7000 	C:\windows\system32\msvcrt.dll
+0x00007ffc161d0000 - 0x00007ffc161fb000 	C:\windows\SYSTEM32\SspiCli.dll
+0x00007ffc188d0000 - 0x00007ffc18921000 	C:\windows\system32\SHLWAPI.dll
+0x00007ffc181c0000 - 0x00007ffc18331000 	C:\windows\system32\USER32.dll
+0x00007ffc186a0000 - 0x00007ffc18818000 	C:\windows\system32\ole32.dll
+0x00007ffc16920000 - 0x00007ffc17e38000 	C:\windows\system32\SHELL32.dll
+0x00007ffc155a0000 - 0x00007ffc155be000 	C:\windows\SYSTEM32\USERENV.dll
+0x00007ffc18820000 - 0x00007ffc188c5000 	C:\windows\system32\ADVAPI32.dll
+0x00007ffc0a4c0000 - 0x00007ffc0a4db000 	C:\windows\SYSTEM32\MPR.dll
+0x00007ffc18c20000 - 0x00007ffc18d57000 	C:\windows\system32\RPCRT4.dll
+0x00007ffc189f0000 - 0x00007ffc18a47000 	C:\windows\SYSTEM32\sechost.dll
+0x00007ffc18440000 - 0x00007ffc18616000 	C:\windows\SYSTEM32\combase.dll
+0x00007ffc18ea0000 - 0x00007ffc18fe4000 	C:\windows\system32\GDI32.dll
+0x00007ffc163f0000 - 0x00007ffc16404000 	C:\windows\SYSTEM32\profapi.dll
+0x00007ffc15a40000 - 0x00007ffc15af2000 	C:\windows\SYSTEM32\SHCORE.dll
+0x00007ffc18ff0000 - 0x00007ffc19024000 	C:\windows\system32\IMM32.DLL
+0x00007ffc18a50000 - 0x00007ffc18ba1000 	C:\windows\system32\MSCTF.dll
+0x00007ffc15d00000 - 0x00007ffc15f5a000 	C:\windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.9600.17031_none_6242a4b3ecbb55a1\COMCTL32.dll
+0x00000000562e0000 - 0x00000000563b2000 	D:\Program Files\JAVA\jre7\bin\msvcr100.dll
+0x0000000055b00000 - 0x00000000562d2000 	D:\Program Files\JAVA\jre7\bin\server\jvm.dll
+0x00007ffc16150000 - 0x00007ffc16159000 	C:\windows\SYSTEM32\WSOCK32.dll
+0x00007ffc12c20000 - 0x00007ffc12c3f000 	C:\windows\SYSTEM32\WINMM.dll
+0x00007ffc18690000 - 0x00007ffc18697000 	C:\windows\system32\PSAPI.DLL
+0x00007ffc18bb0000 - 0x00007ffc18c08000 	C:\windows\system32\WS2_32.dll
+0x00007ffc11160000 - 0x00007ffc1118a000 	C:\windows\SYSTEM32\WINMMBASE.dll
+0x00007ffc189e0000 - 0x00007ffc189e9000 	C:\windows\system32\NSI.dll
+0x00007ffc167b0000 - 0x00007ffc167fa000 	C:\windows\SYSTEM32\cfgmgr32.dll
+0x00007ffc14610000 - 0x00007ffc14636000 	C:\windows\SYSTEM32\DEVOBJ.dll
+0x0000000055af0000 - 0x0000000055aff000 	D:\Program Files\JAVA\jre7\bin\verify.dll
+0x0000000055ac0000 - 0x0000000055ae8000 	D:\Program Files\JAVA\jre7\bin\java.dll
+0x0000000055aa0000 - 0x0000000055ab5000 	D:\Program Files\JAVA\jre7\bin\zip.dll
+
+VM Arguments:
+jvm_args: -Dfile.encoding=UTF-8 -Xbootclasspath:D:\Program Files\android-sdk-windows\platforms\android-18\android.jar 
+java_command: com.example.laibomusic.util.LRCUtils
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=D:\Program Files\JAVA\jdk1.7
+CLASSPATH=.;D:\Program Files\JAVA\jdk1.7\lib\tools.jar;D:\Program Files\JAVA\jdk1.7\lib\dt.jar;D:\Program Files\JAVA\jdk1.7\bin;
+PATH=D:\Program Files\Python27;C:\Program Files (x86)\Lenovo\FusionEngine;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\Program Files (x86)\iFLYTEK\VoiceAssistant\SpeechPlusRuntime;C:\Program Files (x86)\Lenovo\Voice SDK;C:\Program Files (x86)\Lenovo\Lenovo Home\;D:\Program Files\JAVA\jdk1.7\bin;D:\Program Files\TortoiseSVN\bin;D:\Program Files\adt-bundle-windows-x86_64-20140321\sdk\platform-tools\;d:\android-ndk-r8b-windows\android-ndk-r8b;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\cygwin64\bin;D:\Program Files\android-sdk-windows\tools;D:\cocos2d-x-3.3\templates;D:\cocos2d-x-3.3\tools\cocos2d-console\bin;\templates;
+USERNAME=Íõ¿µ
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 8.1 , 64 bit Build 9600 
+
+CPU:total 4 (2 cores per cpu, 2 threads per core) family 6 model 60 stepping 3, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, avx, avx2, aes, erms, ht, tsc, tscinvbit
+
+Memory: 4k page, physical 8298776k(4204684k free), swap 16687384k(11959696k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (24.65-b04) for windows-amd64 JRE (1.7.0_67-b01), built on Jul 25 2014 08:55:00 by "java_re" with unknown MS VC++:1600
+
+time: Fri Jul 31 10:49:02 2015
+elapsed time: 0 seconds
+

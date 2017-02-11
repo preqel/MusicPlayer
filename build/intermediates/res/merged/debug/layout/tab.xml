@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?> 
+    <Button android:id="@+id/tabbutton"
+        style="@style/Tabs"
+        android:text="button" xmlns:android="http://schemas.android.com/apk/res/android"/> 
+ 
+<!-- From: file:/F:/workforas/laiboMusic/res/layout/tab.xml -->

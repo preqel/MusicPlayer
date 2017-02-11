@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/F:/workforas/laiboMusic/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="tab_titles">
+          <item>@string/tab_songs</item>
+        <item>@string/tab_artists</item>
+        <item>@string/tab_albums</item>
+    <item>@string/tab_playlist</item>
+         
+    </string-array>
+    <!-- From: file:/F:/workforas/laiboMusic/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="aliceblue">#F0F8FF</color>
+    <color name="antiquewhite">#FAEBD7</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="aquamarine">#7FFFD4</color>
+    <color name="azure">#F0FFFF</color>
+    <color name="beige">#F5F5DC</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="black">#ff000000</color>
+    <color name="blanchedalmond">#FFEBCD</color>
+    <color name="blue">#0000FF</color>
+    <color name="blueviolet">#8A2BE2</color>
+    <color name="brown">#A52A2A</color>
+    <color name="burlywood">#DEB887</color>
+    <color name="cadetblue">#5F9EA0</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="color_accent">#7c4dff</color>
+    <color name="color_error">#f44336</color>
+    <color name="color_success">#3CCD88</color>
+    <color name="coral">#FF7F50</color>
+    <color name="cornflowerblue">#6495ED</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="crimson">#DC143C</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="darkblue">#00008B</color>
+    <color name="darkcyan">#008B8B</color>
+    <color name="darkgoldenrod">#B8860B</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="darkgreen">#006400</color>
+    <color name="darkgrey">#A9A9A9</color>
+    <color name="darkkhaki">#BDB76B</color>
+    <color name="darkmagenta">#8B008B</color>
+    <color name="darkolivegreen">#556B2F</color>
+    <color name="darkorange">#FF8C00</color>
+    <color name="darkorchid">#9932CC</color>
+    <color name="darkred">#8B0000</color>
+    <color name="darksalmon">#E9967A</color>
+    <color name="darkseagreen">#8FBC8F</color>
+    <color name="darkslateblue">#483D8B</color>
+    <color name="darkslategray">#2F4F4F</color>
+    <color name="darkslategrey">#2F4F4F</color>
+    <color name="darkturquoise">#00CED1</color>
+    <color name="darkviolet">#9400D3</color>
+    <color name="deeppink">#FF1493</color>
+    <color name="deepskyblue">#00BFFF</color>
+    <color name="dimgray">#696969</color>
+    <color name="dimgrey">#696969</color>
+    <color name="dodgerblue">#1E90FF</color>
+    <color name="firebrick">#B22222</color>
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="forestgreen">#228B22</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="ghostwhite">#F8F8FF</color>
+    <color name="gold">#FFD700</color>
+    <color name="goldenrod">#DAA520</color>
+    <color name="gray">#808080</color>
+    <color name="green">#008000</color>
+    <color name="greenyellow">#ADFF2F</color>
+    <color name="grey">#808080</color>
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="hotpink">#FF69B4</color>
+    <color name="indianred">#CD5C5C</color>
+    <color name="indigo">#4B0082</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="lavenderblush">#FFF0F5</color>
+    <color name="lawngreen">#7CFC00</color>
+    <color name="lemonchiffon">#FFFACD</color>
+    <color name="lightblue">#ADD8E6</color>
+    <color name="lightcoral">#F08080</color>
+    <color name="lightcyan">#E0FFFF</color>
+    <color name="lightgoldenrodyellow">#FAFAD2</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="lightgreen">#90EE90</color>
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="lightorange">#FFC163</color>
+    <color name="lightpink">#FFB6C1</color>
+    <color name="lightsalmon">#FFA07A</color>
+    <color name="lightseagreen">#20B2AA</color>
+    <color name="lightskyblue">#87CEFA</color>
+    <color name="lightslategray">#778899</color>
+    <color name="lightslategrey">#778899</color>
+    <color name="lightsteelblue">#B0C4DE</color>
+    <color name="lightyellow">#FFFFE0</color>
+    <color name="lime">#00FF00</color>
+    <color name="limegreen">#32CD32</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="maroon">#800000</color>
+    <color name="mediumaquamarine">#66CDAA</color>
+    <color name="mediumblue">#0000CD</color>
+    <color name="mediumorchid">#BA55D3</color>
+    <color name="mediumpurple">#9370DB</color>
+    <color name="mediumseagreen">#3CB371</color>
+    <color name="mediumslateblue">#7B68EE</color>
+    <color name="mediumspringgreen">#00FA9A</color>
+    <color name="mediumturquoise">#48D1CC</color>
+    <color name="mediumvioletred">#C71585</color>
+    <color name="midnightblue">#191970</color>
+    <color name="mintcream">#F5FFFA</color>
+    <color name="mistyrose">#FFE4E1</color>
+    <color name="moccasin">#FFE4B5</color>
+    <color name="navajowhite">#FFDEAD</color>
+    <color name="navy">#000080</color>
+    <color name="oldlace">#FDF5E6</color>
+    <color name="olive">#808000</color>
+    <color name="olivedrab">#6B8E23</color>
+    <color name="orange">#FFA500</color>
+    <color name="orangered">#FF4500</color>
+    <color name="orchid">#DA70D6</color>
+    <color name="palegoldenrod">#EEE8AA</color>
+    <color name="palegreen">#98FB98</color>
+    <color name="paleturquoise">#AFEEEE</color>
+    <color name="palevioletred">#DB7093</color>
+    <color name="papayawhip">#FFEFD5</color>
+    <color name="peachpuff">#FFDAB9</color>
+    <color name="peru">#CD853F</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="plum">#DDA0DD</color>
+    <color name="powderblue">#B0E0E6</color>
+    <color name="purple">#800080</color>
+    <color name="queue_callout_line">#99ffffff</color>
+    <color name="red">#FF0000</color>
+    <color name="rosybrown">#BC8F8F</color>
+    <color name="royalblue">#4169E1</color>
+    <color name="saddlebrown">#8B4513</color>
+    <color name="salmon">#FA8072</color>
+    <color name="sandybrown">#F4A460</color>
+    <color name="seagreen">#2E8B57</color>
+    <color name="seashell">#FFF5EE</color>
+    <color name="selected_tabtext">#bb000000</color>
+    <color name="sienna">#A0522D</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="skyblue">#87CEEB</color>
+    <color name="slateblue">#6A5ACD</color>
+    <color name="slategray">#708090</color>
+    <color name="slategrey">#708090</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="springgreen">#00FF7F</color>
+    <color name="steelblue">#4682B4</color>
+    <color name="tan">#D2B48C</color>
+    <color name="teal">#008080</color>
+    <color name="thistle">#D8BFD8</color>
+    <color name="tomato">#FF6347</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_black">#aa000000</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="unselected_tabtext">#77000000</color>
+    <color name="violet">#EE82EE</color>
+    <color name="wheat">#F5DEB3</color>
+    <color name="white">#ffffffff</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="yellow">#FFFF00</color>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/></declare-styleable>
+    <!-- From: file:/F:/workforas/laiboMusic/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="audio_player_artwork_padding">20dp</dimen>
+    <dimen name="audio_player_button_container_padding">2dp</dimen>
+    <dimen name="audio_player_controls_height">56dp</dimen>
+    <dimen name="audio_player_info_container_padding">16dp</dimen>
+    <dimen name="audio_player_seek_bar_padding">10dp</dimen>
+    <dimen name="bottom_action_bar_album_art_width_height">30dp</dimen>
+    <dimen name="bottom_action_bar_divider_height">2dp</dimen>
+    <dimen name="bottom_action_bar_height">48dp</dimen>
+    <dimen name="bottom_action_bar_info_padding_left">5dp</dimen>
+    <dimen name="bottom_action_bar_item_padding_left_right">12dp</dimen>
+    <dimen name="bottom_action_bar_item_width">56dp</dimen>
+    <dimen name="bottom_action_bar_padding_left">4dp</dimen>
+    <dimen name="colorstrip_height">4dp</dimen>
+    <dimen name="fast_scroll_padding_right">32dp</dimen>
+    <dimen name="four_by_one_album_art_width">90dp</dimen>
+    <dimen name="four_by_two_album_art_width">135dp</dimen>
+    <dimen name="four_by_two_control_height">55dp</dimen>
+    <dimen name="four_by_two_height">180dp</dimen>
+    <dimen name="gridview_image_height">152dp</dimen>
+    <dimen name="gridview_image_width">152dp</dimen>
+    <dimen name="gridview_item_ccontainer_height">64dp</dimen>
+    <dimen name="gridview_item_ccontainer_padding_left">12dp</dimen>
+    <dimen name="gridview_item_ccontainer_padding_right">12dp</dimen>
+    <dimen name="gridview_item_margin">3dp</dimen>
+    <dimen name="half_and_half_container_padding">3dp</dimen>
+    <dimen name="half_and_half_image_height">200dp</dimen>
+    <dimen name="half_and_half_text_padding">5dp</dimen>
+    <dimen name="header_text_padding">5dp</dimen>
+    <dimen name="header_text_padding_left">15dp</dimen>
+    <dimen name="list_separator_container_padding_left">16dp</dimen>
+    <dimen name="list_separator_min_height">32dp</dimen>
+    <dimen name="list_separator_padding_left_right">8dp</dimen>
+    <dimen name="listview_album_art">54dp</dimen>
+    <dimen name="listview_album_margin">4dp</dimen>
+    <dimen name="listview_item_height">36dp</dimen>
+    <dimen name="listview_items_padding_left_top">9dp</dimen>
+    <dimen name="listview_items_padding_right">85dp</dimen>
+    <dimen name="listview_items_padding_small_top">4dp</dimen>
+    <dimen name="listview_peak_meter_one_padding_right">80dp</dimen>
+    <dimen name="listview_peak_meter_two_padding_right">70dp</dimen>
+    <dimen name="notification_expanded_height">128.0dip</dimen>
+    <dimen name="notification_padding">8.0dip</dimen>
+    <dimen name="one_by_one_height">62dp</dimen>
+    <dimen name="one_by_one_width">72dp</dimen>
+    <dimen name="peak_meter_one_padding_right">15dp</dimen>
+    <dimen name="peak_meter_padding_bottom">10dp</dimen>
+    <dimen name="peak_meter_padding_top">8dp</dimen>
+    <dimen name="peak_meter_two_padding_right">5dp</dimen>
+    <dimen name="play_controls_notification">48.0dip</dimen>
+    <dimen name="quick_context_line_height">30dp</dimen>
+    <dimen name="quick_context_line_width">1dp</dimen>
+    <dimen name="quick_context_margin_right">5dp</dimen>
+    <dimen name="quick_context_padding_right">4dp</dimen>
+    <dimen name="status_bar_album_art">64dp</dimen>
+    <dimen name="status_bar_button_info_container_padding_left">11dp</dimen>
+    <dimen name="status_bar_button_width_height">48dp</dimen>
+    <dimen name="status_bar_recents_app_description_text_size">14dp</dimen>
+    <dimen name="status_bar_recents_app_icon_left_margin">0dp</dimen>
+    <dimen name="status_bar_recents_app_icon_max_height">48dp</dimen>
+    <dimen name="status_bar_recents_app_icon_max_width">48dp</dimen>
+    <dimen name="status_bar_recents_app_icon_top_margin">8dp</dimen>
+    <dimen name="status_bar_recents_app_label_left_margin">0dp</dimen>
+    <dimen name="status_bar_recents_app_label_text_size">14dp</dimen>
+    <dimen name="status_bar_recents_app_label_width">88dp</dimen>
+    <dimen name="status_bar_recents_fading_edge_length">20dp</dimen>
+    <dimen name="status_bar_recents_item_padding">0dp</dimen>
+    <dimen name="status_bar_recents_thumbnail_height">145dp</dimen>
+    <dimen name="status_bar_recents_thumbnail_left_margin">20dp</dimen>
+    <dimen name="status_bar_recents_thumbnail_width">164dp</dimen>
+    <dimen name="tab_height">30dp</dimen>
+    <dimen name="tab_padding_left_right">40dp</dimen>
+    <dimen name="tab_padding_top_bottom">6dp</dimen>
+    <dimen name="text_size_extra_micro">10sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_micro">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="viewpager_margin_stroke_width">0dp</dimen>
+    <!-- From: file:/F:/workforas/laiboMusic/res/values/strings.xml -->
+    <eat-comment/>
+    <item name="tag_first" type="id"/>
+    <item name="tag_second" type="id"/>
+    <!-- From: file:/F:/workforas/laiboMusic/res/values/config.xml -->
+    <eat-comment/>
+    <integer name="gridview_columns">2</integer>
+    <integer name="image_fade_in_duration">150</integer>
+    <integer name="listview_album_art">133</integer>
+    <integer name="listview_padding_left">16</integer>
+    <integer name="listview_padding_right">32</integer>
+    <integer name="peak">200</integer>
+    <integer name="viewpager_margin_width">0</integer>
+    <!-- From: file:/F:/workforas/laiboMusic/res/values/strings.xml -->
+    <eat-comment/>
+    <plurals name="NNNtrackstoplaylist">
+        <!-- message shown when one song was added -->
+        <item quantity="one">1 song added to playlist</item>
+        <!-- message shown when zero or more than one song was added -->
+        <item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> songs added to playlist</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <!-- Number of albums is one -->
+        <item quantity="one">1 album</item>
+        <!-- Number of albums is more than one -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> albums</item>
+    </plurals>
+    <plurals name="Nsongs">
+
+        <!-- Number of songs is one -->
+        <item quantity="one">1 song</item>
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> songs</item>
+    </plurals>
+    <string name="action_settings">Settings</string>
+    <string name="add_to_favorite">已经添加音乐到喜欢的音乐列表</string>
+    <string name="app_broswer">搜索结果界面</string>
+    <string name="app_main">我的音乐播放器</string>
+    <string name="app_name">王康的音乐播放器</string>
+    <string name="app_play">音乐播放</string>
+    <string name="app_search">搜索界面</string>
+    <string name="durationformatlong" translatable="false"><ns1:g id="format">%1$d:%3$02d:%5$02d</ns1:g></string>
+    <string name="durationformatshort" translatable="false"><ns1:g id="format">%2$d:%5$02d</ns1:g></string>
+    <string name="elseitem">其他</string>
+    <string name="exit">退出</string>
+    <string name="flush">联系作者</string>
+    <string name="introduce">广告</string>
+    <string name="picfragment_update_error">从网络上暂时找不到这首歌曲的图片</string>
+    <string name="play_mode_loop">顺序播放</string>
+    <string name="play_mode_random">随机播放</string>
+    <string name="play_next">下一首</string>
+    <string name="play_now">播放</string>
+    <string name="play_pre">前一首</string>
+    <string name="repeat_current">循环播放当前音乐</string>
+    <string name="repeat_now">不循环播放当前音乐</string>
+    <string name="searchHint">搜索</string>
+    <string name="searchLabel">搜索</string>
+    <string name="t1">歌手</string>
+    <string name="t2">歌曲</string>
+    <string name="t3">分数</string>
+    <string name="tab_albums">专辑</string>
+    <string name="tab_artists">歌手</string>
+    <string name="tab_playlist">列表</string>
+    <string name="tab_songs">单曲</string>
+    <string name="unknown">Unknown</string>
+    <!-- From: file:/F:/workforas/laiboMusic/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AnimFade2" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_from_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_to_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_to_right</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_from_left</item>
+        <item name="android:windowNoTitle">true</item>  
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="AudioPlayerButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/holo_selector</item>
+    </style>
+    <style name="AudioPlayerText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:lineSpacingMultiplier">1.2</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+    <style name="BottomActionBarItem">
+        <item name="android:layout_width">@dimen/bottom_action_bar_item_width</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:paddingLeft">@dimen/bottom_action_bar_item_padding_left_right</item>
+        <item name="android:paddingRight">@dimen/bottom_action_bar_item_padding_left_right</item>
+        <item name="android:background">@drawable/holo_selector</item>
+        <item name="android:gravity">center|right</item>
+    </style>
+    <style name="BottomActionBarText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">top|left|center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">@dimen/text_size_extra_micro</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="FourByTwoMediaButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/holo_selector</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="GridViewTextItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+    </style>
+    <style name="GridviewShadowedText" parent="GridViewTextItem">        
+	    <item name="android:shadowColor">#000000</item>
+	    <item name="android:shadowDx">1</item>
+	    <item name="android:shadowDy">1</item>
+	    <item name="android:shadowRadius">1.5</item> 
+    </style>
+    <style name="HalfText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/transparent_black</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">@dimen/half_and_half_text_padding</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_small</item>
+    </style>
+    <style name="HeaderText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:paddingTop">@dimen/header_text_padding</item>
+        <item name="android:paddingLeft">@dimen/header_text_padding_left</item>
+        <item name="android:paddingBottom">@dimen/header_text_padding</item>
+        <item name="android:paddingRight">@dimen/header_text_padding</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_large</item>
+    </style>
+    <style name="Kingsly.Holo" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionOverflowButtonStyle">@style/OverFlowHolo</item>
+    </style>
+    <style name="Kingsly.Holo.Light" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionOverflowButtonStyle">@style/OverFlowHolo.Light</item>
+    </style>
+    <style name="OverFlowHolo" parent="@android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/kingsly_holo_dark_overflow</item>
+    </style>
+    <style name="OverFlowHolo.Light" parent="@android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/kingsly_holo_light_overflow</item>
+    </style>
+    <style name="PeakMeter">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="SeparatorTextViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/list_separator_min_height</item>
+        <item name="android:background">@drawable/list_section_divider_holo_custom</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/holo_blue_dark</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingRight">@dimen/list_separator_padding_left_right</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="ShadowedText" parent="AudioPlayerText">        
+	    <item name="android:shadowColor">#000000</item>
+	    <item name="android:shadowDx">1</item>
+	    <item name="android:shadowDy">1</item>
+	    <item name="android:shadowRadius">1.5</item> 
+    </style>
+    <style name="StatusBarButton">
+        <item name="android:layout_width">@dimen/status_bar_button_width_height</item>
+        <item name="android:layout_height">@dimen/status_bar_button_width_height</item>
+        <item name="android:layout_gravity">center|right</item>
+        <item name="android:background">?android:listChoiceBackgroundIndicator</item>
+    </style>
+    <style name="StatusBarText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Tabs">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:background">@drawable/tab</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:paddingLeft">40dp</item>
+        <item name="android:paddingRight">40dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:textColor">@color/holo_blue_dark</item>
+        <item name="android:textSize">@dimen/text_size_micro</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:selectAllOnFocus">false</item>
+    </style>
+    <style name="Theme.Light.Translucent" parent="android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="Theme.Light.Translucent.Dialog" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.QuickQueue" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Topborderline"> 
+	    <item name="android:layout_width">match_parent</item>
+	    <item name="android:layout_height">2dp</item>
+	    <item name="android:background">@color/black</item>
+    </style>
+    <style name="dialog_button">
+ 
+        <item name="android:background">@android:drawable/btn_radio</item>
+        
+    </style>
+</resources>

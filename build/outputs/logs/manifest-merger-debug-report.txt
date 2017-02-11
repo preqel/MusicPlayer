@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:2:1-63:12
+	xmlns:android
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:2:11-69
+	package
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:3:5-37
+	android:versionName
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:4:5-28
+		INJECTED from F:\workforas\laiboMusic\AndroidManifest.xml
+		INJECTED from F:\workforas\laiboMusic\AndroidManifest.xml
+uses-sdk
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:8:9-35
+application
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:11:5-56:19
+	android:label
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:14:9-45
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:13:9-60
+activity#com.example.laibomusic.MainActivity
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:18:9-22:20
+	android:label
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:19:13-63
+activity#com.example.laibomusic.MusicPlaying
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:23:9-26:20
+	android:label
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:25:13-45
+	android:theme
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:24:15-47
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:23:19-69
+activity#com.example.laibomusic.MusicLibrary
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:27:9-34:20
+	android:label
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:29:10-42
+	android:theme
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:28:10-42
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:27:19-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:30:18-33:29
+action#android.intent.action.MAIN
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:32:27-74
+activity#com.example.laibomusic.TracksBrowser
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:35:9-37:25
+	android:label
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:35:71-106
+	android:theme
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:36:13-66
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:35:19-70
+activity#com.example.laibomusic.QueryBrowserActivity
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:39:9-50:20
+	android:label
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:42:13-47
+	android:theme
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:43:14-46
+	android:exported
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:40:13-49
+intent-filter#android.intent.action.SEARCH
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:44:13-46:29
+action#android.intent.action.SEARCH
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:45:17-71
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:45:25-68
+meta-data#android.app.searchable
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:47:13-49:54
+	android:resource
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:49:17-51
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:48:17-54
+meta-data#android.app.default_searchable
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:51:11-53:75
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:52:13-58
+	android:value
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:53:13-72
+service#com.example.laibomusic.service.MusicService
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:54:9-88
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:54:18-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:57:6-80
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:57:23-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:58:6-80
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:58:23-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:59:6-85
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:59:23-66
+uses-permission#android.permission.INTERNET
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:60:7-85
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:60:24-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:61:6-98
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:61:23-79
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:62:6-92
+	android:name
+		ADDED from F:\workforas\laiboMusic\AndroidManifest.xml:62:23-73

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\workforas\laiboMusic\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="F:\workforas\laiboMusic\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-223bcf995b6f1ab96b36ff94689cd754651c0293.jar" />
+    </item>
+    <item
+        jar="F:\workforas\laiboMusic\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d57fd9c5dcce9fb775f92d68557370fe891c356b">
+        <dex dex="F:\workforas\laiboMusic\build\intermediates\pre-dexed\debug\volley-8e819ac0aabe77fbe3d8d91e025e1bf41c8da499.jar" />
+    </item>
+    <item
+        jar="F:\workforas\laiboMusic\libs\android-support-v13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8dd065c1ea18e585147c938b8b786e22a47df59f">
+        <dex dex="F:\workforas\laiboMusic\build\intermediates\pre-dexed\debug\android-support-v13-f37937d73ea1fa50f4e5ce3c85dc3a0624c19185.jar" />
+    </item>
+    <item
+        jar="F:\workforas\laiboMusic\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="F:\workforas\laiboMusic\build\intermediates\pre-dexed\debug\android-support-v4-c58a2d31cf0eefe3d6f171811d7463134e274aec.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    >
+    <include layout="@layout/title" android:id="@+id/layout_title"/>
+    <com.example.widget.ScrollableTabView
+        android:layout_below="@+id/layout_title"
+        android:id="@+id/scrollingTabs"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </com.example.widget.ScrollableTabView>
+ <LinearLayout android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:id="@+id/linearlayout_bottom"
+     android:layout_alignParentBottom="true"
+     android:orientation="vertical"
+     >
+    <fragment android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:name="com.example.fragments.BottomActionBarFragment"
+        android:id="@+id/bottomactionbarfragment"
+        />
+ </LinearLayout>
+ 
+ 
+   <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent_black"
+        android:layout_below="@+id/scrollingTabs"
+        android:layout_above="@id/linearlayout_bottom"
+         />
+   
+   
+</RelativeLayout>
