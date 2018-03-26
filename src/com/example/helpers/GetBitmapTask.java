@@ -15,6 +15,7 @@ import android.os.AsyncTask;
 import com.example.laibomusic.R;
 import com.example.laibomusic.entity.ImageInfo;
 import com.example.laibomusic.util.ImageUtils;
+
 /*
 异步加载图片，先从
  */
@@ -22,7 +23,7 @@ public class GetBitmapTask extends AsyncTask<String, Integer, Bitmap> {
 
 	private WeakReference<OnBitmapReadyListener> mListenerReference;
 	private WeakReference<Context> mContextReference;
-	private   ImageInfo  imageinfo;
+	private ImageInfo  imageinfo;
 	int thumbSize;
 	
 	public GetBitmapTask(int thumbSize, ImageInfo image, OnBitmapReadyListener bitmapreadylistener ,Context context){
