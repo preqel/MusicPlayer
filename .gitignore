@@ -3,4 +3,5 @@ _Store
 /captures
 .externalNativeBuild
 app/
-
+*.iml
+.idea
