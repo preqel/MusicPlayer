@@ -1,9 +1,10 @@
 buildscript {
     repositories {
         jcenter()
+        google()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.3.1'
+        classpath 'com.android.tools.build:gradle:3.5.1'
     }
 }
 apply plugin: 'com.android.application'
@@ -14,6 +15,7 @@ dependencies {
 
 android {
     compileSdkVersion 19
+
     buildToolsVersion "25.0.3"
 
     sourceSets {
@@ -28,7 +30,7 @@ android {
         }
 
         // Move the tests to tests/java, tests/res, etc...
-        instrumentTest.setRoot('tests')
+        //instrumentTest.setRoot('tests')
 
         // Move the build types to build-types/<type>
         // For instance, build-types/debug/java, build-types/debug/AndroidManifest.xml, ...
@@ -39,6 +41,10 @@ android {
         debug.setRoot('build-types/debug')
         release.setRoot('build-types/release')
     }
+}
+
+repositories {
+    google()
 }
 tasks.withType(JavaCompile) {
     options.encoding = "UTF-8"
